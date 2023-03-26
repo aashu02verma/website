@@ -1,0 +1,60 @@
+body{
+    background-color: #EAF6F6;";
+   }
+
+hr{
+   
+   height: px;
+   width: 10%;
+   border-style: dotted none none;
+   border-width: 5px;
+   border-color: grey;
+}  
+img{
+   height: 250px;
+}  
+h1{
+   color: #66bfbf;
+}
+h3{
+    color: #66bfbf;
+ }
+ p{
+    color:#2E4F4F;
+ }
+ td{
+    color: #A84448;
+ }
+ label{
+    color: #146C94;
+ }
+ li{
+    color: #395B64;
+ }
+ .apple{
+    background-color: green;
+    border-radius: 10%;
+ }
+ .ball{
+    background-color: thistle;
+    border-radius: 25%;
+ }
+ .cat{
+    background-color: #395B64;
+    border-radius: 45%;
+ }
+ .dog{
+    background-color: aquamarine;
+    border-radius: 5%;
+ }
+ .elephant{
+    background-color: blanchedalmond;
+    border-radius: 80%;
+ }
+ #alpha{
+    color: #A84448;
+ }
+ img:hover{
+    background-color: aqua;
+ }
+
